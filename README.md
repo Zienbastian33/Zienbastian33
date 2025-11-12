@@ -27,18 +27,18 @@ Soy un desarrollador **Full Stack** y **Analista de Sistemas/Datos** con una pro
 ## Algunos de mis proyectos de portafolio en github:
 
 Desarrollo full stack, conexion de APIs, bases de datos e implementacion con LLMS:
-https://github.com/Zienbastian33/TaskManager-DjangoCRUD
-https://github.com/Zienbastian33/qr_rest
-https://github.com/Zienbastian33/animal-explorer-ai
-[https://zienbastian33.github.io/MundialKenpoKarate/](https://zienbastian33.github.io/MundialKenpoKarate/)
-https://github.com/Zienbastian33/calendarapp
-https://github.com/Zienbastian33/challenge_amigosecreto
-https://github.com/Zienbastian33/SistemaGestion
+* https://github.com/Zienbastian33/TaskManager-DjangoCRUD
+* https://github.com/Zienbastian33/qr_rest
+* https://github.com/Zienbastian33/animal-explorer-ai
+* [https://zienbastian33.github.io/MundialKenpoKarate/](https://zienbastian33.github.io/MundialKenpoKarate/)
+* https://github.com/Zienbastian33/calendarapp
+* https://github.com/Zienbastian33/challenge_amigosecreto
+* https://github.com/Zienbastian33/SistemaGestion
 
 Analisis de Datos:
-https://github.com/Zienbastian33/AluraStore_Desafio
-https://github.com/Zienbastian33/Challenge-2---Telecom-X
-https://github.com/Zienbastian33/script_excl2json
+* https://github.com/Zienbastian33/AluraStore_Desafio
+* https://github.com/Zienbastian33/Challenge-2---Telecom-X
+* https://github.com/Zienbastian33/script_excl2json
 
 
 ---
